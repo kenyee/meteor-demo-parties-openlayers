@@ -1,0 +1,30 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "accounts-admin-ui": {}
+    },
+    "packages": {
+      "accounts-admin-ui": {
+        "git": "https://github.com/kenyee/meteor-accounts-admin-ui.git",
+        "tag": "v1.0.1",
+        "commit": "3a0740d2c17bde847a998dc08fe8e9ccd810c17c"
+      },
+      "jquery-ui": {
+        "git": "https://github.com/TimHeckel/meteor-jquery-ui.git",
+        "tag": "v1.9.2",
+        "commit": "c437d45edcf1367df8d5ffa8bad2867758030bd2"
+      },
+      "jqbootstrapvalidation": {
+        "git": "https://github.com/nate-strauser/meteor-jqbootstrapvalidation.git",
+        "tag": "v0.1.0",
+        "commit": "2af4625d41a9b24311544a53790f14fa38c27b10"
+      },
+      "roles": {
+        "git": "https://github.com/alanning/meteor-roles.git",
+        "tag": "v1.0.4",
+        "commit": "22deeecc57d68fc8c0a3342a6dfebc93d1548f39"
+      }
+    }
+  }
+}
