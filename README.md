@@ -22,6 +22,7 @@ This application is also live at
 Bugs
 ----
 There seems to be a bug in OpenLayers if the callout/popup marker info
-is above the marker...it got flicker crazy and you can't click ont the marker.
-If the callout is below the marker, this problem doesn't occur.
+is above the marker after you drag the map...it goes flicker crazy and 
+you can't click ont the marker.
+If the callout is below the marker after a drag, this problem doesn't occur.
 
