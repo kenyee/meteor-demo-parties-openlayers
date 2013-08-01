@@ -16,3 +16,6 @@ with the party data) and
 [sample app](https://play.google.com/store/apps/details?id=com.keysolutions.meteorparties&hl=en)
 that acts as a Native Android client to this web site.
 
+This application is also live at
+[demoparties.meteor.com](http://demoparties.meteor.com)
+
